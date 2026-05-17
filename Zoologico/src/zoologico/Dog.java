@@ -1,6 +1,6 @@
 package zoologico;
 
-public class Dog extends Mammal {
+public class Dog extends Wolf {
     public void wagTail(){
         System.out.println("(Wagging Tail)");
     }
